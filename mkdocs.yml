@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: 起一组之组之wiki
+nav:
+  - Home: 
+    - index.md
+  - Dust: 
+    - dust.md
+    - dust-wiki/dust-awake.md
+    - dust-wiki/dust-city.md
+    - dust-wiki/dust-space.md
+  - Return-to-the-Void: 
+    - return-to-the-void.md
+theme: readthedocs

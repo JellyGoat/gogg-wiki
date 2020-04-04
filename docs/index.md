@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# 欢迎来到“起一组”组的Wiki！
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Welcome to GOGG's Wiki!
 
-## Commands
+这里是我们“起一组”组的Wiki，本组专门开发毒瘤魔改包（萌新警告）
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+大致发些发展路线以及release notes之类的...
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+欢迎来这里踩点啊qwq
+```text
+本组开发项目:
+  - Dust:
+    - Dust: Awake in Sleep(WIP)
+    - Dust: City in the Dust(Gugugu)
+    - Dust: Outer Space Connection(Gugugu)
+  - Return-to-the-Void(WIP)
+```
